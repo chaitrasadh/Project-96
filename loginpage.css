@@ -1,0 +1,26 @@
+body{
+    vertical-align: auto;
+    text-align: center;
+    background-color: rgb(189, 212, 216);
+}
+
+#logindiv{
+    border-radius: 20px;
+    background-color: rgb(83, 170, 170);
+    width: 250px;
+    height: 300px;
+
+}
+
+img{
+    border-radius: 75px;
+    width: 50px;
+    height: 50px;
+}
+
+#nextbtn{
+    width: 100px;
+    height: 35px;
+    background-color: gainsboro;
+    color: black;
+}
